@@ -5,7 +5,6 @@ const DAY: &str = "day2";
 
 
 fn main() {
-    println!("TEST");
     let in_files = vec![
         format!("/{}/src/{}_test.txt", DAY, DAY),
         format!("/{}/src/{}.txt", DAY, DAY)
